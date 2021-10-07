@@ -1,0 +1,9 @@
+{
+  "server": {
+    "host": "SERVER_HOST",
+    "port": "SERVER_PORT"
+  },
+  "cors": {
+    "origin": "CORS_ORIGIN"
+  }
+}
